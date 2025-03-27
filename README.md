@@ -22,11 +22,17 @@ npm install
 
 npm start
 ```
-### Screenshots
-![Home Screen](src/assets/screenshots/screenshot1.jpeg)
+## Screenshots
 
-### Project Strucutre
-# src
+![Screenshots](src/assets/screenshots/screenshot1.jpeg)
+![Screenshots](src/assets/screenshots/screenshot2.jpeg)
+![Screenshots](src/assets/screenshots/screenshot3.jpeg)
+![Screenshots](src/assets/screenshots/screenshot4.jpeg)
+![Screenshots](src/assets/screenshots/screenshot5.jpeg)
+![Screenshots](src/assets/screenshots/screenshot6.jpeg)
+
+## Project Strucutre
+### src
 
 * [assets/](./src/assets)
   * [images/](./src/assets/images)
