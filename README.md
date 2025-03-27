@@ -23,7 +23,7 @@ npm install
 npm start
 ```
 ### Screenshots
-![Home Screen](./src/assets/screenshots/screenshot1.png)
+![Home Screen](assets/screenshots/screenshot1.png)
 
 ### Project Strucutre
 # src
